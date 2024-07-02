@@ -1,7 +1,8 @@
 <h1>CAT PHOTO APP</h1>
 
-https://venuprakash.github.io/catapp/
+<h3>https://venuprakash.github.io/catapp/</h3>
 
+<h4>Building your own cat photo app using HTML</h4>
 
 **STEPS**
 
