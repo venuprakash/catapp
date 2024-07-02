@@ -351,7 +351,7 @@ Nest a <code>p</code> element with the text <code>No Copyright - freeCodeCamp.or
 
 ✅ Step 64
 
-Turn the existing <code>freeCodeCamp.org</code> text into a link by enclosing it in an anchor (<code>a>/code>) element. The <code>href</code> attribute should be set to <code>https://www.freecodecamp.org</code>.
+Turn the existing <code>freeCodeCamp.org</code> text into a link by enclosing it in an anchor (<code>a</code>) element. The <code>href</code> attribute should be set to <code>https://www.freecodecamp.org</code>.
 
 ✅ Step 65
 
