@@ -1,4 +1,4 @@
-<h1>CAT PHOTO APP</h1>
+<h1>FREECODECAMP - CAT PHOTO APP</h1>
 
 <h3>https://venuprakash.github.io/catapp/</h3>
 
